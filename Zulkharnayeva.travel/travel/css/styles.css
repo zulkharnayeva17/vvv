@@ -1,0 +1,39 @@
+body {
+
+  background-color: rgb(180, 223, 191);
+}
+#heading {
+  font-size: 30px;
+  color: purple;
+}
+p{
+  font-size: 20px;
+}
+p1{
+  font-size: 20px;
+}
+hr {
+  border-style :inset;
+  background-color: black;
+  height: 2px;
+}
+h{
+  font-size: 20px;
+}
+
+
+.logo{
+  font-size: 30px;
+  font-weight:1000 ;
+  color: black;
+}
+
+.adress{
+  font-size: 20px;
+  text-transform: lowercase;
+
+}
+.adress_link{
+  color: purple;
+  text_direction: none;
+}
